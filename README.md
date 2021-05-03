@@ -2,7 +2,7 @@
 
 <!-- ## Hi  👋 -->
 
-My names is Raziel, I'm a PhD student in data science and bioinformatics
+I'm a PhD student in data science and bioinformatics
 
 * Currently working for [CRG](https://www.crg.eu/roderic_guigo) as a PhD student
 
