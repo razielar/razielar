@@ -1,4 +1,6 @@
-## Hi  👋
+<h1 align="center">Hi 👋, I'm Raziel</h1>
+
+<!-- ## Hi  👋 -->
 
 My names is Raziel, I'm a PhD student in data science and bioinformatics
 
