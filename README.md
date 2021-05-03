@@ -12,7 +12,7 @@ My names is Raziel, I'm a PhD student in data science and bioinformatics
 
 ## Contact 
 
-* Mail: razielar@gmail.com
+* razielar@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/raziel-amador-rios-14161268/)
 * [Twitter](https://twitter.com/RazielAmadorR)
 
