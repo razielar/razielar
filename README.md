@@ -2,9 +2,6 @@
 
 <p align="left"> PhD in Data Science and Bioinformatics </p>
 
-
-* Currently working for [CRG](https://www.crg.eu/roderic_guigo) as a PhD student
-
 <!-- ## Skills  -->
 <h3 align="left">Skills</h3>
 
