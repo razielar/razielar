@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raziel</h1>
 
-<p align="left"> I'm a PhD student in data science and bioinformatics </p>
+<p align="left"> PhD in Data Science and Bioinformatics </p>
 
 
 * Currently working for [CRG](https://www.crg.eu/roderic_guigo) as a PhD student
