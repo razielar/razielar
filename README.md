@@ -10,6 +10,7 @@
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
