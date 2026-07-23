@@ -45,4 +45,4 @@
 <h3 align="left">Contact</h3>
 
 * razielar@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/raziel-amador-rios-14161268/)
+* [LinkedIn](https://www.linkedin.com/in/raziel-amador-rios-phd-14161268/)
