@@ -6,7 +6,7 @@
 <h3 align="left">Skills</h3>
 
 * Data scientist & AI Engineer driven by curiosity and passion for learning
-* Background in scientific research, machine learning and AI
+* Background in scientific research, machine learning, AI and AI Agents
 
 <h3 align="left">Languages and Tools</h3>
 
