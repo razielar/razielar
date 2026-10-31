@@ -11,7 +11,6 @@
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left" style="white-space: nowrap;">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/></a>
